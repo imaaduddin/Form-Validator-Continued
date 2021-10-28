@@ -1,1 +1,1 @@
-This project is a continuation from this GitHub repo: 
+This project is a continuation from this GitHub repo: https://github.com/imaaduddin/Form-Validator
